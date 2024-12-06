@@ -1,0 +1,6 @@
+@ChopinApi_HostAddress = http://localhost:5034
+
+GET {{ChopinApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
